@@ -1,0 +1,22 @@
+{
+    "abc": {
+        "Omakr": {
+            "book": "abc",
+            "f_name": "Omakr",
+            "l_name": "Bhise",
+            "email": "omakr@gamil.com",
+            "phone": 1234,
+            "location": "latur maha"
+        }
+    },
+    "maha": {
+        "Raj": {
+            "book": "maha",
+            "f_name": "Raj",
+            "l_name": "Shinde",
+            "email": "rajshinde@gamil.com",
+            "phone": 123445,
+            "location": "pune maha"
+        }
+    }
+}
